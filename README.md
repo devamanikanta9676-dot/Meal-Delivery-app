@@ -1,2 +1,5 @@
-# Meal-Delivery-app
-A meal delivery app is a platform that lets users order food from nearby restaurants online and get it delivered to their doorstep.
+This meal delivery app is a comprehensive digital solution designed to connect customers, restaurants, and delivery partners on a single platform. It enables users to discover nearby restaurants based on location, cuisine, ratings, and price range, making it easy to choose meals that suit their preferences. Users can browse detailed menus, customize dishes, add special instructions, and place orders effortlessly using secure and multiple payment options such as UPI, cards, and wallets.
+
+The app offers real-time order tracking with live status updates and notifications, ensuring transparency from order confirmation to delivery. Features like order history, saved addresses, and personalized recommendations enhance user convenience and engagement. Customers can also rate and review restaurants and delivery services, helping maintain quality and trust within the platform.
+
+For restaurants, the app provides tools to manage menus, pricing, availability, and incoming orders efficiently. Delivery partners benefit from optimized route suggestions, flexible work schedules, and clear earnings insights. Overall, the meal delivery app improves accessibility to food services, streamlines operations for businesses, and delivers a fast, reliable, and convenient food ordering experience.
